@@ -10,3 +10,7 @@ In this task I set up a test using a local standalone Selenium Server to control
 
 # Scenarios
 
+Feature1: As fromatob, I want to be sure that our customers cannot login with non-existing
+credentials.
+
+-> I added scenarios where non-existing customer cannot login into the portal.
